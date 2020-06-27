@@ -1,2 +1,4 @@
 # MyAssignment
-My Python Assignment 1.
+My Python Assignment.
+
+This Repository contains my assignment for Coding Blocks.
